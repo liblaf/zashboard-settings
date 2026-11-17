@@ -13,7 +13,6 @@
   "config/number-of-charts-in-sidebar": "3",
   "config/show-selected-for-now-node": "true",
   "config/speedtest-mode": "core",
-  "config/speedtest-timeout": "1200",
   "config/speedtest-url": "https://cp.cloudflare.com",
   "config/split-overview-page": "true",
   "config/truncate-proxy-name": "false"
